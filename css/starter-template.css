@@ -23,8 +23,17 @@ ul, ol {
 div h6 {
   font-size: 12px;
 }
-@media (min-width: 576px) { 
-  h1 {
-    font-size: 4em;
-  }
+
+hr {
+  border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+small {
+  font-size: 8px;
+}
+.none {
+  margin-bottom: 0 !important;
 }

@@ -16,3 +16,44 @@ ul, ol {
     list-style-type: none;
     text-decoration: none;
 }
+#landPix {
+  background-color: #F1DDC9;
+
+}
+div h6 {
+  font-size: 12px;
+}
+
+hr {
+  border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+.thinHr {
+   border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #ccc; /* old IE */
+    background-color: #ccc; /* Modern Browsers */
+}
+}
+small {
+  font-size: 8px;
+}
+.none {
+  margin-bottom: 0 !important;
+}
+.box {
+  margin-top: -45px;
+  margin-left: 20px;
+  /*margin-right: 20px !important;*/
+  height: 5em;
+}
+.watch {
+  margin-top: -45px;
+  margin-left: 5em !important;
+  /*margin-right: 20px !important;*/
+  height: 6em;
+}

@@ -1,7 +1,18 @@
 body {
-  padding-top: 5rem;
+  padding: 2rem;
+  align-content: center;
+  font-family: 'Taviraj', serif;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+}
+a, a:hover {
+  color: inherit;
+  text-underline: none;
+}
+ul, ol {
+    color: inherit;
+    list-style-type: none;
+    text-decoration: none;
 }

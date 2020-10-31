@@ -1,7 +1,12 @@
 body {
-  padding: 2rem;
+  /*padding: 2rem;*/
   align-content: center;
   font-family: 'Taviraj', serif;
+}
+.bg-footer {
+  background-color: #D84727;
+  color: #fff;
+
 }
 .starter-template {
   padding: 3rem 1.5rem;

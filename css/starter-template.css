@@ -51,3 +51,9 @@ small {
   /*margin-right: 20px !important;*/
   height: 5em;
 }
+.watch {
+  margin-top: -45px;
+  margin-left: 5em !important;
+  /*margin-right: 20px !important;*/
+  height: 6em;
+}

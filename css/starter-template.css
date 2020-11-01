@@ -1,5 +1,5 @@
 body {
-  padding: 2rem;
+  /*padding: 2rem;*/
   align-content: center;
   font-family: 'Taviraj', serif;
 }
@@ -18,6 +18,11 @@ ul, ol {
 }
 #landPix {
   background-color: #F1DDC9;
+
+}
+.bg-footer {
+  background-color: #D84727;
+  color: #fff;
 
 }
 div h6 {
